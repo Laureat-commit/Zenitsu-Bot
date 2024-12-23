@@ -10,16 +10,26 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
+global.Owner = ['24177059320'] //ur number 
+global.OwnerNumber = ['24177059320']
+global.ownertag = ['24177059330']
 global.BotName = "ZenitsuBot" //ur bot name 
 global.packname = "ZenitsuBot"
 global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
 global.OwnerName = "🦄Dream Guy Deepak" //ur name
 global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
 global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
-global.sessionName = "session"
+global.sessionName = "⚠️Do not share this file with anybody⚠️
+
+┌─❖
+│ Ohayo 😽
+└┬❖  
+┌┤✑  Thanks for using X-PairCode
+│└────────────┈ ⳹        
+│©2020-2024 DeepakBotInc 
+└─────────────────┈ ⳹
+
+ "
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Zenitsu.js  otherwise buttons will not work //
